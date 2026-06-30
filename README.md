@@ -52,10 +52,10 @@ My professional narrative is built around one coherent identity:
 | **Peer Review** | Reviewer, AMIA 2026 Informatics |
 | **Peer Review** | Reviewer, FIRE IIT 2025 |
 | **Peer Review** | Reviewer, ICRTAC 2025 |
-| **Research** | Taylor & Francis journal paper accepted |
+| **Research** | Taylor & Francis publication and IEEE Xplore conference paper |
 | **Conference Presentation** | Presented paper at IICAIET 2025 |
 | **Conference Presentation** | Presented paper at INCSTIC 2025 |
-| **Technical Authorship** | Published articles on Dev.to, DZone, and C# Corner |
+| **Technical Authorship** | Published articles on Dev.to, DZone, and C# Corner with public URLs |
 | **Professional Role** | Technical Lead, enterprise healthcare technology systems |
 
 ---
@@ -92,21 +92,27 @@ These roles support my professional direction in **AI**, **healthcare informatic
 
 ### Research Publications and Presentations
 
-| Year | Publication / Presentation | Type | Status |
+| Year | Publication / Presentation | Type | Status / Link |
 |---:|---|---|---|
-| 2025 | Taylor & Francis journal paper | Journal Publication | Accepted |
+| 2025 | Early Breast Cancer Detection Using Integrated Feature Selection Quad-Learner Ensemble Based Hunting–Tracking Optimization | Taylor & Francis / Conference Paper | [View Publication](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003666929-70/early-breast-cancer-detection-using-integrated-feature-selection-quad-learner-ensemble-based-hunting%E2%80%93tracking-optimization-indirakumar-rajendiran-dhivyabharathi-ramanathan) |
+| 2025 | IEEE Conference Paper | IEEE Xplore / Conference Paper | [View Paper](https://ieeexplore.ieee.org/abstract/document/11265380) |
 | 2025 | IICAIET 2025 paper presentation | Conference Presentation | Presented |
 | 2025 | INCSTIC 2025 paper presentation | Conference Presentation | Presented |
 
 ### Technical Articles
 
-| Platform | Topic / Contribution |
-|---|---|
-| **Dev.to** | Building a Secure AI Chat API Using ASP.NET Core — Local Mock Today, Azure OpenAI Ready Tomorrow |
-| **DZone** | Enterprise technical article contributing to software engineering knowledge sharing |
-| **C# Corner** | Two technical articles focused on applied software engineering and developer education |
+| # | Platform | Article | Link |
+|---:|---|---|---|
+| 1 | Dev.to | Building AI Applications with .NET: A Practical Roadmap for Enterprise Developers | [Read Article](https://dev.to/indirakumar710/building-ai-applications-with-net-a-practical-roadmap-for-enterprise-developers-2ijj) |
+| 2 | Dev.to | Building a Secure AI Chat API Using ASP.NET Core — Local Mock Today, Azure OpenAI Ready Tomorrow | [Read Article](https://dev.to/indirakumar710/building-a-secure-ai-chat-api-using-aspnet-core-local-mock-today-azure-openai-ready-tomorrow-27p8) |
+| 3 | Dev.to | Using Microsoft.Extensions.AI to Build Provider-Agnostic AI Applications in .NET | [Read Article](https://dev.to/indirakumar710/using-microsoftextensionsai-to-build-provider-agnostic-ai-applications-in-net-1d87) |
+| 4 | DZone | Explainable AI: SHAP, XAI Methods, and .NET Integration | [Read Article](https://dzone.com/articles/explainable-ai-shap-xai-methods-dotnet-integration) |
+| 5 | DZone | Microsoft Responsible AI Principles for Engineers | [Read Article](https://dzone.com/articles/microsoft-responsible-ai-principles-for-engineers) |
+| 6 | DZone | Responsible AI Is an Engineering Problem | [Read Article](https://dzone.com/articles/responsible-ai-is-an-engineering-problem) |
+| 7 | C# Corner | Integrating Fairness Metrics in Machine Learning with Fairlearn and Azure ML | [Read Article](https://www.c-sharpcorner.com/article/integrating-fairness-metrics-in-machine-learning-with-fairlearn-and-azure-ml/) |
+| 8 | C# Corner | Additional C# Corner Article | [Read Article](https://www.c-sharpcorner.com/article/integrating-fairness-metrics-in-machine-learning-with-fairlearn-and-azure-ml/) |
 
----
+> Note: Article 8 currently points to the same C# Corner URL as Article 7. Replace it when you have the distinct second C# Corner article link.
 
 ## Featured Technical Direction
 
@@ -153,9 +159,11 @@ Documentation and diagrams showing how regulated enterprises can adopt AI with c
 | Dec 2018 – Present | Technical Lead, Cognizant Technology Solutions | Professional Experience |
 | 2025 | Presented research paper at IICAIET 2025 | Conference Presentation |
 | 2025 | Presented research paper at INCSTIC 2025 | Conference Presentation |
-| 2025 | Taylor & Francis journal paper accepted | Journal Publication |
+| 2025 | Taylor & Francis publication: Early Breast Cancer Detection Using Integrated Feature Selection Quad-Learner Ensemble Based Hunting–Tracking Optimization | Research Publication |
+| 2025 | IEEE Xplore conference paper published | Conference Publication |
+| 2025 | Published 3 technical articles on Dev.to | Technical Articles |
+| 2025 | Published 3 technical articles on DZone | Technical Articles |
 | 2025 | Published 2 technical articles on C# Corner | Technical Articles |
-| 2025 | Published 1 technical article on DZone | Technical Article |
 | 2025 | Achieved IEEE Senior Member | Professional Membership |
 | 2025 | Peer Reviewer for FIRE IIT 2025 | Peer Review |
 | 2025 | Peer Reviewer for ICRTAC 2025 | Peer Review |
@@ -163,9 +171,6 @@ Documentation and diagrams showing how regulated enterprises can adopt AI with c
 | 2026 | Judge for Globee Awards | Judging |
 | 2026 | Peer Reviewer for AMIA 2026 Informatics | Peer Review |
 | 2026 | Peer Reviewer for AAAI Workshop SECURE-AI4H | Peer Review |
-| 2026 | Published Dev.to article on Secure AI Chat API using ASP.NET Core | Technical Article |
-
----
 
 ## Current Portfolio Direction
 
@@ -194,8 +199,8 @@ Planned areas of contribution:
 | **Professional recognition** | IEEE Senior Member |
 | **Judging** | CES Innovation Awards and Globee Awards |
 | **Peer review** | AAAI, AMIA, FIRE IIT, ICRTAC |
-| **Research** | Taylor & Francis journal acceptance and conference presentations |
-| **Technical authorship** | Dev.to, DZone, C# Corner |
+| **Research** | Taylor & Francis publication, IEEE Xplore paper, and conference presentations |
+| **Technical authorship** | Dev.to, DZone, and C# Corner articles with public links |
 | **Leadership** | Technical Lead in enterprise healthcare technology systems |
 | **Specialization** | Applied AI, healthcare compliance, responsible AI, secure enterprise systems |
 
