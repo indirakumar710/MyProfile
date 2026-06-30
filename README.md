@@ -211,8 +211,7 @@ Planned areas of contribution:
 |---|---|
 | Email | `indirakumarus710@gmail.com` |
 | GitHub | `https://github.com/indirakumar710` |
-| LinkedIn | Add your LinkedIn URL here |
-| Portfolio | Add portfolio URL if created later |
+| LinkedIn | `www.linkedin.com/in/indirakumarrajendiran` |
 
 ---
 
