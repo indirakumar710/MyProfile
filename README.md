@@ -96,8 +96,7 @@ These roles support my professional direction in **AI**, **healthcare informatic
 |---:|---|---|---|
 | 2025 | Early Breast Cancer Detection Using Integrated Feature Selection Quad-Learner Ensemble Based Hunting–Tracking Optimization | Taylor & Francis / Conference Paper | [View Publication](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003666929-70/early-breast-cancer-detection-using-integrated-feature-selection-quad-learner-ensemble-based-hunting%E2%80%93tracking-optimization-indirakumar-rajendiran-dhivyabharathi-ramanathan) |
 | 2025 | IEEE Conference Paper | IEEE Xplore / Conference Paper | [View Paper](https://ieeexplore.ieee.org/abstract/document/11265380) |
-| 2025 | IICAIET 2025 paper presentation | Conference Presentation | Presented |
-| 2025 | INCSTIC 2025 paper presentation | Conference Presentation | Presented |
+
 
 ### Technical Articles
 
