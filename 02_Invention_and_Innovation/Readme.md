@@ -147,7 +147,6 @@ Where needed, internal names are replaced with generic terms such as:
 ---
 
 ## Reviewer Guidance
-
 The key files and links to review first are:
 
 1. `Legacy_System_Modernization.pdf`
