@@ -1,4 +1,3 @@
-
 # BCS Fellowship Evidence — 02 Invention and Innovation
 
 ## Purpose of This Folder
@@ -18,7 +17,9 @@ My evidence is mainly based on four areas:
 
 ## Innovation Summary
 
-My innovation work is focused on building secure, responsible, and maintainable enterprise systems for regulated environments. In this section, I show how I contributed to practical innovation by improving older systems, designing modern service-based solutions, applying AI-assisted workflows in healthcare technology, and sharing applied AI research through recognised publication channels.
+My innovation work is focused on building secure, responsible, and maintainable enterprise systems for regulated environments.
+
+In this section, I show how I contributed to practical innovation by improving older systems, designing modern service-based solutions, applying AI-assisted workflows in healthcare technology, and sharing applied AI research through recognised publication channels.
 
 The innovation is not only about using new technology. It is about using technology in a practical way to solve real business and system problems. This includes improving maintainability, reducing dependency on legacy workflows, supporting better traceability, improving secure integration, applying responsible AI concepts, and preparing systems for future technology needs.
 
@@ -49,29 +50,47 @@ BCS Invention and Innovation expects evidence of new or improved systems, produc
 
 This folder supports that criterion by showing my contribution to the following areas.
 
-### 1. Legacy System Modernisation
+---
 
-The legacy system modernisation evidence shows my contribution to moving older enterprise workflows into a modern technology platform. This includes redesigning system components, supporting API-first integration, improving maintainability, and reducing dependency on legacy processes.
+## 1. Legacy System Modernisation
+
+The legacy system modernisation evidence shows my contribution to moving older enterprise workflows into a modern technology platform.
+
+This includes redesigning system components, supporting API-first integration, improving maintainability, and reducing dependency on legacy processes.
 
 This is important because legacy systems can be difficult to maintain, test, integrate, and scale. Modernising them improves long-term support, future enhancement capability, and system reliability.
 
-### 2. Secure API and Microservices Architecture
+---
 
-The secure API and microservices evidence shows how I contributed to designing and supporting modern service-based architecture. This includes secure API design, backend integration, service-to-service communication, authentication, logging, telemetry, and error handling.
+## 2. Secure API and Microservices Architecture
+
+The secure API and microservices evidence shows how I contributed to designing and supporting modern service-based architecture.
+
+This includes secure API design, backend integration, service-to-service communication, authentication, logging, telemetry, and error handling.
 
 This supports innovation because microservices and secure APIs allow enterprise systems to become more modular, easier to maintain, easier to integrate, and better prepared for future business changes.
 
-### 3. AI-Assisted Healthcare Workflow
+---
 
-The AI-assisted workflow evidence shows my involvement in applying AI concepts to healthcare technology processes. This supports practical innovation because healthcare systems need careful handling of security, compliance, traceability, and business decision support.
+## 3. AI-Assisted Healthcare Workflow
+
+The AI-assisted workflow evidence shows my involvement in applying AI concepts to healthcare technology processes.
+
+This supports practical innovation because healthcare systems need careful handling of security, compliance, traceability, and business decision support.
 
 The goal of this work is to explore how AI can support healthcare workflows while keeping human oversight, audit readiness, and compliance expectations in mind.
 
-### 4. Research Publications in Healthcare AI
+---
 
-The IEEE Xplore paper and Taylor & Francis chapter support this criterion by showing that my innovation work is not limited to internal project delivery. These publications show my contribution to healthcare AI, fraud detection, explainability, feature selection, machine learning, and early disease detection.
+## 4. Research Publications in Healthcare AI
 
-The IEEE Xplore paper supports my work in AI-powered health insurance fraud detection. The Taylor & Francis chapter supports my work in AI-based early breast cancer detection. Together, these publications show that my innovation contribution covers both enterprise healthcare workflows and wider healthcare AI research.
+The IEEE Xplore paper and Taylor & Francis chapter support this criterion by showing that my innovation work is not limited to internal project delivery.
+
+These publications show my contribution to healthcare AI, fraud detection, explainability, feature selection, machine learning, and early disease detection.
+
+The IEEE Xplore paper supports my work in AI-powered health insurance fraud detection. The Taylor & Francis chapter supports my work in AI-based early breast cancer detection.
+
+Together, these publications show that my innovation contribution covers both enterprise healthcare workflows and wider healthcare AI research.
 
 ---
 
@@ -116,6 +135,14 @@ This folder supports the following BCS Fellowship statement:
 
 ---
 
+## Suggested BCS Application URL
+
+Use this folder URL as the optional evidence URL for the **Body of Work — Invention and Innovation** section:
+
+https://github.com/indirakumar710/MyProfile/tree/BCS_Fellowship/02_Invention_and_Innovation
+
+---
+
 ## Redaction and Confidentiality Note
 
 Some evidence in this folder may be redacted or simplified to protect confidential employer, client, and system information.
@@ -147,6 +174,7 @@ Where needed, internal names are replaced with generic terms such as:
 ---
 
 ## Reviewer Guidance
+
 The key files and links to review first are:
 
 1. `Legacy_System_Modernization.pdf`
