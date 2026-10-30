@@ -1,191 +1,74 @@
-# BCS Fellowship Evidence — 04 Public Influencer
+# 04 — Public Influencer
 
-## Purpose of This Folder
+> **BCS category:** Standing in the Community  
+> **Criterion:** Public Influencer  
+> **Primary route:** External technical speaking and published engineering guidance
 
-This folder contains evidence for the **BCS Fellowship — Standing in the Community: Public Influencer** criterion.
 
-The purpose of this section is to show that my professional contribution is visible beyond my employer and that my technical judgement, research review activity, judging work, and public professional involvement are recognised by external technology, healthcare informatics, AI, and computing communities.
+> [!NOTE]
+> **Evidence interpretation:** Supporting files establish only the facts stated below; where a broader outcome is not independently verified, it is identified as a limitation.
 
-My evidence is mainly based on:
-
-1. Technology innovation judging.
-2. Peer review and technical programme committee activity.
-3. Healthcare informatics and AI-related review contributions.
-4. Professional recognition and certificates.
-5. Public technical profile and wider community involvement.
 
 ---
 
-## Public Influencer Summary
+## Public professional contribution
 
-My professional profile is focused on **Applied AI, Responsible AI, Healthcare Compliance, Secure Enterprise Systems, and .NET-based enterprise architecture**.
+I have shared practical guidance on **secure AI integration**, **responsible and explainable AI**, and **enterprise .NET engineering** through external technical events, professional developer publications and applied research. Judging, peer review and IEEE Senior Member application assessment provide additional evidence of external professional selection and service.
 
-Through judging roles, reviewer roles, technical programme committee activity, professional certificates, and public technical contribution, I have built evidence that my work and technical judgement are recognised outside my workplace.
-
-This section supports my BCS Fellowship application by showing that I contribute to the wider technology profession and support the evaluation, review, and improvement of technical work across AI, healthcare technology, innovation, and computing-related forums.
+**Interpretation:** Independent publication pages and speaking records establish public contribution and reach. Evidence that other professionals discussed, applied or acted on these contributions should be identified separately rather than inferred from participation or view counts alone.
 
 ---
 
-## Key Evidence Documents
+## 🎤 External speaking engagements
 
-| Evidence File                                                                                                                                         | What It Supports                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| `Gmail - ACTION REQUIRED_ Official Judge for CES Innovation Awards.pdf`                                                                               | Shows selection as an official judge for the CES Innovation Awards.                      |
-| `Gmail - CES Innovation Awards Judging Certificate of Recognition.pdf`                                                                                | Shows recognition for CES Innovation Awards judging contribution.                        |
-| `Gmail - Thank You for Judging CES’ Innovation Awards Program.pdf`                                                                                    | Shows completion or acknowledgement of CES judging activity.                             |
-| `CertificateofRecognition.pdf`                                                                                                                        | Supports external recognition or judging/reviewer contribution.                          |
-| `Globee_Awards.pdf`                                                                                                                                   | Shows Globee Awards judging or recognition evidence.                                     |
-| `Calro_Awards_Judging.png`                                                                                                                            | Shows judging contribution for awards or innovation evaluation.                          |
-| `AMIA_2016.png`                                                                                                                                       | Supports healthcare informatics reviewer or professional involvement evidence.           |
-| `Gmail - 2026 Amplify Informatics Conference Reviewer Account Information.pdf`                                                                        | Shows reviewer account information for AMIA/Amplify Informatics-related review activity. |
-| `FIRE_IIT.png`                                                                                                                                        | Shows reviewer or contributor involvement in FIRE/IIT-related research forum.            |
-| `Gmail - ICRTAC2025 _ Paper 166.pdf`                                                                                                                  | Shows ICRTAC 2025 paper review or reviewer activity.                                     |
-| `ICRTAC25.jpg`                                                                                                                                        | Supports ICRTAC reviewer or conference evidence.                                         |
-| `Gmail - Reviewer Invitation for 2nd International Conference on Artificial Intelligence for Innovations in Healthcare Industries (ICAIIHI-2025).pdf` | Shows reviewer invitation for AI and healthcare industry-related conference.             |
-| `Gmail - Congratulations – Selected as Technical Program Committee Member for ICAIIHI 2025.pdf`                                                       | Shows selection as a Technical Program Committee member.                                 |
-| `MLH_2026_Judging_01.png`                                                                                                                             | Shows Major League Hacking judging evidence.                                             |
-| `MLH_2026_Judging_02.png`                                                                                                                             | Additional MLH judging evidence.                                                         |
-| `Assignments_1.png`                                                                                                                                   | Shows assigned review/judging tasks.                                                     |
-| `Assignments_2.png`                                                                                                                                   | Shows additional assigned review/judging tasks.                                          |
-| `Review_Screen.png`                                                                                                                                   | Shows review activity or reviewer dashboard evidence.                                    |
-| `Reviewing_View.png`                                                                                                                                  | Shows review activity or reviewer participation evidence.                                |
-| `Profile.png`                                                                                                                                         | Supports public/professional profile evidence.                                           |
+| **Evidence ID** | **Event** | **Date** | **Supporting document / URL** | **What it confirms** |
+|:--|:--|:--|:--|:--|
+| **P01** | **Wikpolt Tech Meetup** — AI agents and generative AI | **20 Sep 2025** | `Wikpolt_Tech_Meetup_banner.jpg` | External speaker listing and session topic. |
+| **P02** | Wikpolt meetup — remote presentation participation | **20 Sep 2025** | `Tech_Meetup.png` | My remote participation with a visible in-person audience; not a record of downstream practice adoption. |
+| **P03** | **C# Corner Software Architecture Conference** — healthcare AI with .NET | **21 Aug 2026** | [**Official speaker page**](https://softwarearchitecture.live/speakers/indirakumar-rajendiran) · `Software Architecture Conference - August 20-21, 2026.html` | External conference speaking and public speaker identification. |
+| **P04** | Software Architecture Conference recording | **Aug 2026** | [**Public recording**](https://www.youtube.com/watch?v=VDkmFRzP0d0) | Published event recording; precise presentation time segment should be identified if used. |
 
 ---
 
-## How This Evidence Supports BCS Public Influencer
+## 📰 Published technical articles
 
-BCS Public Influencer expects evidence that a professional is visible and influential in the IT community through public contribution, advocacy, technical content, speaking, writing, or recognised professional involvement.
-
-This folder supports that criterion by showing my contribution in the following areas.
-
----
-
-## 1. Technology Innovation Judging
-
-My judging evidence, including CES Innovation Awards, Globee Awards, Calro Awards, and MLH, shows that external forums have trusted me to review and assess technical work, innovation, implementation quality, and professional excellence.
-
-This supports my public standing because judging requires independent technical judgement, fairness, structured review, and understanding of technology value.
-
----
-
-## 2. Peer Review and Research Community Contribution
-
-The evidence from ICRTAC, FIRE IIT, AMIA/Amplify Informatics, and ICAIIHI shows my involvement in reviewing technical or research work.
-
-This supports the Public Influencer criterion because it shows that I contribute to the quality of technical knowledge shared in research and professional communities.
+| **Evidence ID** | **Platform** | **Publication — direct link** | **Technical contribution** |
+|:--|:--|:--|:--|
+| **P05** | **Dev.to** | [Building AI Applications with .NET](https://dev.to/indirakumar710/building-ai-applications-with-net-a-practical-roadmap-for-enterprise-developers-2ijj) | Practical patterns for enterprise developers. |
+| **P06** | **Dev.to** | [Building a Secure AI Chat API with ASP.NET Core](https://dev.to/indirakumar710/building-a-secure-ai-chat-api-using-aspnet-core-local-mock-today-azure-openai-ready-tomorrow-27p8) | Secure AI-enabled API development. |
+| **P07** | **Dev.to** | [Provider-Agnostic AI with Microsoft.Extensions.AI](https://dev.to/indirakumar710/using-microsoftextensionsai-to-build-provider-agnostic-ai-applications-in-net-1d87) | Model-provider-independent integration. |
+| **P08** | **DZone** | [Explainable AI with SHAP and .NET](https://dzone.com/articles/explainable-ai-shap-xai-methods-dotnet-integration) | Practical explainability techniques. |
+| **P09** | **DZone** | [Microsoft Responsible AI Principles for Engineers](https://dzone.com/articles/microsoft-responsible-ai-principles-for-engineers) | Engineering considerations for responsible AI. |
+| **P10** | **DZone** | [Responsible AI Is an Engineering Problem](https://dzone.com/articles/responsible-ai-is-an-engineering-problem) | Treating responsible AI as a development concern. |
+| **P11** | **C# Corner** | [Fairlearn and Azure Machine Learning](https://www.c-sharpcorner.com/article/integrating-fairness-metrics-in-machine-learning-with-fairlearn-and-azure-ml/) | Implementing fairness evaluation. |
+| **P12** | **C# Corner** | [A Practical Guide to Responsible AI for .NET Developers](https://www.c-sharpcorner.com/article/what-is-responsible-ai-a-practical-guide-for-net-developers2/) | Developer education on responsible AI. |
 
 ---
 
-## 3. Healthcare AI and Informatics Involvement
+## 📚 Research publications
 
-My AMIA/Amplify Informatics and ICAIIHI evidence supports my profile in healthcare technology, healthcare AI, and informatics.
-
-This is important because my professional theme is linked to **Applied AI for Healthcare Compliance**, **Responsible AI**, and **Secure Enterprise Systems**.
-
-These review roles show that my technical experience is relevant to areas beyond internal enterprise delivery.
-
----
-
-## 4. Professional Recognition
-
-The certificates and recognition files in this folder show that my external service has been acknowledged by professional or technical forums.
-
-This strengthens my public standing because it provides evidence that I am not only participating, but also being recognised for my contribution.
+| **Evidence ID** | **Publisher** | **Publicly accessible source** | **Contribution** |
+|:--|:--|:--|:--|
+| **P13** | **IEEE Xplore** | [AI-Powered Health Insurance Fraud Detection](https://ieeexplore.ieee.org/document/11265380/) | Co-authored applied-AI research. |
+| **P14** | **Taylor & Francis** | [Early breast cancer detection — research chapter](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003666929-70/early-breast-cancer-detection-using-integrated-feature-selection-quad-learner-ensemble-based-hunting%E2%80%93tracking-optimization-indirakumar-rajendiran-dhivyabharathi-ramanathan) | Co-authored healthcare-AI research. |
 
 ---
 
-## 5. Public Technical Profile
+## 🏅 External professional service — supporting evidence
 
-The profile and reviewer dashboard screenshots support my public and professional presence. They help show that I am actively involved in technical review, judging, and professional contribution outside my employer.
+| **Professional activity** | **Repository evidence** | **Appropriate conclusion** |
+|:--|:--|:--|
+| **CES Innovation Awards judging** | `Gmail - CES Innovation Awards Judging Certificate of Recognition.pdf` and related correspondence | Independent judging recognition, as specified in the underlying records. |
+| **Globee judging** | `Globee_Awards.pdf` | The certificate concerns the **2025 Globee Awards for Leadership**; do not relabel as 2026. |
+| **MLH judging** | `MLH_2026_Judging_01.png`, `MLH_2026_Judging_02.png` | External technical judging evidence, subject to exact activity shown. |
+| **Research peer reviewing** | AMIA, FIRE IIT, ICRTAC, ICAIIHI and other review records | Evidence of invitation or completed service **as each record actually establishes**. |
+| **IEEE Senior Member Review Panel** | `IEEE_Senior_Member_Assessment_Committee_2026.pdf` and corresponding invitation/thank-you PDFs | IEEE confirmed completed **membership-assessment activity in September 2026**; this is more directly relevant to BCS **Assessor** than to Public Influencer. |
 
----
+### Influence and follow-up
 
-## Public Influence Value
+The publications and event records provide verifiable public evidence of **professional visibility, technical dissemination and engagement on multiple platforms**. A claim that readers or audience members **changed their practice** would require a genuine public discussion, documented follow-up, independent reference or an attributable implementation case.
 
-The evidence in this folder shows value in the following ways:
+> **File accuracy:** `Calro_Awards_Judging.png` appears to concern **CLARO Awards**; `AMIA_2016.png` appears to display **2026** activity. Verify original records before renaming. The `ICRTAC25.jpg` certificate has differing presentation/review wording.  
+> **Confidentiality:** Do not expose unique reviewer invitation links, manuscript or applicant details, internal screenshots or private personal information in a public repository. The Wikpolt screenshot also requires removal of its meeting code before open publication.
 
-* Demonstrates external trust in my technical judgement.
-* Shows contribution to innovation judging and research review.
-* Supports my professional standing in AI, healthcare informatics, and computing.
-* Shows involvement in professional forums beyond my employer.
-* Strengthens my public profile around Applied AI, Responsible AI, Healthcare Compliance, and Secure Enterprise Systems.
-* Shows that I help evaluate and improve the quality of technical and research work.
-* Supports my standing in the wider IT and technology community.
-
----
-
-## My Personal Contribution
-
-My contribution includes:
-
-* Reviewing technology innovation submissions.
-* Judging hackathon or award submissions.
-* Reviewing research papers or assigned technical submissions.
-* Supporting technical programme committee activity.
-* Applying my experience in AI, healthcare technology, secure systems, and enterprise software while reviewing work.
-* Contributing to the professional community through fair and structured review.
-* Maintaining a public technical profile through articles, publications, and professional recognition.
-
----
-
-## Evidence Statement Linkage
-
-This folder supports the following BCS Fellowship statement:
-
-> My work demonstrates Standing in the Community as a Public Influencer through external judging, peer-review activity, technical programme committee involvement, professional recognition, and public technical contribution in Applied AI, Responsible AI, Healthcare Compliance, Secure Enterprise Systems, and computing-related communities.
-
----
-
-## Suggested BCS Application URL
-
-Use this folder URL as the optional evidence URL for the **Standing in the Community — Public Influencer** section:
-
-https://github.com/indirakumar710/MyProfile/tree/BCS_Fellowship/04_Public_Influencer
-
----
-
-## Redaction and Confidentiality Note
-
-Some evidence in this folder may include emails, screenshots, certificates, or reviewer dashboard images. These should be redacted where needed to protect private or confidential information.
-
-The following details should not be exposed publicly:
-
-* Personal email addresses of other people.
-* Internal reviewer system IDs.
-* Private reviewer comments.
-* Paper contents that are not public.
-* Confidential judging details.
-* Non-public scores or evaluation notes.
-* Login URLs or account details.
-* Private contact information.
-* Any sensitive personal information.
-
-Where needed, private details should be replaced with generic terms such as:
-
-* Reviewer Account
-* Judging Assignment
-* Review Dashboard
-* Technical Submission
-* Conference Reviewer
-* Award Judge
-* Professional Recognition
-
----
-
-## Reviewer Guidance
-
-The key evidence to review first should be:
-
-1. `Gmail - ACTION REQUIRED_ Official Judge for CES Innovation Awards.pdf`
-2. `Gmail - CES Innovation Awards Judging Certificate of Recognition.pdf`
-3. `Globee_Awards.pdf`
-4. `Gmail - 2026 Amplify Informatics Conference Reviewer Account Information.pdf`
-5. `FIRE_IIT.png`
-6. `Gmail - ICRTAC2025 _ Paper 166.pdf`
-7. `Gmail - Reviewer Invitation for 2nd International Conference on Artificial Intelligence for Innovations in Healthcare Industries (ICAIIHI-2025).pdf`
-8. `Gmail - Congratulations – Selected as Technical Program Committee Member for ICAIIHI 2025.pdf`
-9. `MLH_2026_Judging_01.png`
-10. `Review_Screen.png`
-
-These files provide the strongest support for my BCS Public Influencer criterion.
+[**← Return to portfolio overview**](../README.md)
