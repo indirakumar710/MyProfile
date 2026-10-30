@@ -1,186 +1,68 @@
-# BCS Fellowship Evidence — 02 Invention and Innovation
+# 02 — Invention and Innovation
 
-## Purpose of This Folder
+> **BCS category:** Additional Body of Work  
+> **Criterion:** Invention and Innovation  
+> **Primary case:** Confidential legacy freight-rating platform modernisation
 
-This folder contains evidence for the **BCS Fellowship — Body of Work: Invention and Innovation** criterion.
 
-The purpose of this section is to show how I contributed to practical technology innovation through legacy system modernisation, secure API and microservices architecture, AI-assisted healthcare workflow design, and research publications in applied AI and healthcare technology.
+> [!NOTE]
+> **Evidence interpretation:** Supporting files establish only the facts stated below; where a broader outcome is not independently verified, it is identified as a limitation.
 
-My evidence is mainly based on four areas:
-
-1. Modernising legacy enterprise systems into API-first platforms.
-2. Designing secure API and microservices-based architecture.
-3. Supporting AI-assisted healthcare workflows in a compliance-focused environment.
-4. Publishing and presenting research work related to healthcare AI, fraud detection, explainability, and early disease detection.
 
 ---
 
-## Innovation Summary
+## 💡 Innovation summary
 
-My innovation work is focused on building secure, responsible, and maintainable enterprise systems for regulated environments.
+A long-established **IBM AS400-based freight-rating platform** contained business rules and dependencies embedded in legacy components, which complicated maintenance and integration.
 
-In this section, I show how I contributed to practical innovation by improving older systems, designing modern service-based solutions, applying AI-assisted workflows in healthcare technology, and sharing applied AI research through recognised publication channels.
+My contribution was to **analyse rating behaviour**, **recover and document undocumented business rules and dependencies**, and recommend a **phased transition** in which legacy and modern services could coexist. The approach supported a move towards an **API-driven architecture** while protecting continuity of rating functions.
 
-The innovation is not only about using new technology. It is about using technology in a practical way to solve real business and system problems. This includes improving maintainability, reducing dependency on legacy workflows, supporting better traceability, improving secure integration, applying responsible AI concepts, and preparing systems for future technology needs.
-
----
-
-## Key Evidence Documents
-
-| Evidence File                     | What It Supports                                                                                                  |
-| --------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| `Legacy_System_Modernization.pdf` | Shows innovation through migration from legacy architecture to a modern API-first platform.                       |
-| `Secure_API_MicroServices.pdf`    | Shows secure API design, microservices architecture, service integration, and scalable system design.             |
-| `AI Assisted Workflow.pdf`        | Shows involvement in AI-assisted healthcare workflow design and practical AI adoption in a regulated environment. |
+**What was adapted:** An established, business-critical rating system and its method of integration—not the invention of an entirely new technology.
 
 ---
 
-## Research and Publication Evidence
+## ✅ Independent confirmation of adoption
 
-| Publication / Evidence                                                                                                                                        | URL                                                                                                                                                                                                                                                      | What It Supports                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| IEEE Xplore paper — **AI-Powered Health Insurance Fraud Detection using QEM-FusionNet based SmartGridRand**                                                   | https://ieeexplore.ieee.org/document/11265380/                                                                                                                                                                                                           | Supports innovation in healthcare AI, fraud detection, and applied machine learning. |
-| Taylor & Francis chapter — **Early breast cancer detection using integrated feature selection and quad-learner ensemble based hunting–tracking optimization** | https://www.taylorfrancis.com/chapters/edit/10.1201/9781003666929-70/early-breast-cancer-detection-using-integrated-feature-selection-quad-learner-ensemble-based-hunting%E2%80%93tracking-optimization-indirakumar-rajendiran-dhivyabharathi-ramanathan | Supports innovation in healthcare AI and early disease detection.                    |
+A former manager's **28 October 2026** letter corroborates my design involvement and identifies the following sequence:
 
----
+| **Date / period** | **Project milestone** | **BCS significance** |
+|:--|:--|:--|
+| **2019 · design phase** | Assessment of embedded rating processes and dependencies | Demonstrates the **technical problem and personal contribution**. |
+| **26 April 2019** | An approval event associated with the proposed design | Dated decision point; the **exact approval stage** needs careful description. |
+| **May 2019** | **Client Chief Architect approved** the proposed approach | Independent evidence of **organisational adoption**. |
+| **September 2019** | Project team **deployed approved functionality** | Evidence the design **progressed into implementation**. |
 
-## How This Evidence Supports BCS Invention and Innovation
-
-BCS Invention and Innovation expects evidence of new or improved systems, products, processes, methods, or practices that create value.
-
-This folder supports that criterion by showing my contribution to the following areas.
+The April and May milestones should not be conflated; the manager letter should be used for the precise wording of both events.
 
 ---
 
-## 1. Legacy System Modernisation
+## 📋 Evidence mapping
 
-The legacy system modernisation evidence shows my contribution to moving older enterprise workflows into a modern technology platform.
-
-This includes redesigning system components, supporting API-first integration, improving maintainability, and reducing dependency on legacy processes.
-
-This is important because legacy systems can be difficult to maintain, test, integrate, and scale. Modernising them improves long-term support, future enhancement capability, and system reliability.
-
----
-
-## 2. Secure API and Microservices Architecture
-
-The secure API and microservices evidence shows how I contributed to designing and supporting modern service-based architecture.
-
-This includes secure API design, backend integration, service-to-service communication, authentication, logging, telemetry, and error handling.
-
-This supports innovation because microservices and secure APIs allow enterprise systems to become more modular, easier to maintain, easier to integrate, and better prepared for future business changes.
+| **Evidence ID** | **Existing file or source** | **Claim supported** | **Evidence weight / qualification** |
+|:--|:--|:--|:--|
+| **I01** | `Legacy_System_Modernization.pdf` | Complexity and structure of the **legacy rating workflow** | **Technical context**; not a complete before/after system comparison. |
+| **I02** | `Manager_Letter_Legacy_Modernization.pdf` | **My contribution**, **design approval**, **implementing organisation** and **September 2019 deployment** | **Primary independent adoption evidence**; original contains restricted identifying details. |
+| **I03** | `Secure_API_MicroServices.pdf` | General API architecture context | Only claim as project-specific if the diagram **actually corresponds** to the delivered modernisation. |
+| **I04** | `AI Assisted Workflow.pdf` | A separate AI-assisted workflow / proof-of-concept | Distinct from the freight-rating platform; does **not** prove deployment of AI in that system. |
+| **I05** | [IEEE Xplore publication](https://ieeexplore.ieee.org/document/11265380/) | Separate public applied-AI research output | Supports research activity, not the AS400 migration result. |
+| **I06** | [Taylor & Francis research chapter](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003666929-70/early-breast-cancer-detection-using-integrated-feature-selection-quad-learner-ensemble-based-hunting%E2%80%93tracking-optimization-indirakumar-rajendiran-dhivyabharathi-ramanathan) | Separate applied research contribution | Does not independently verify enterprise-platform adoption. |
 
 ---
 
-## 3. AI-Assisted Healthcare Workflow
+## 📈 Result and impact
 
-The AI-assisted workflow evidence shows my involvement in applying AI concepts to healthcare technology processes.
+**Documented:** The manager's firsthand confirmation provides the strongest basis for the conclusion that my technical approach was **approved and implemented**. This connects my design contribution to a business-used change, rather than an unadopted proposal.
 
-This supports practical innovation because healthcare systems need careful handling of security, compliance, traceability, and business decision support.
+**Reported but not independently verified in the supplied letter:** approximately **60% faster quote generation**, **35% reduction in operational cost**, and approximately **50,000 quotations per day**. These figures should only appear as measured outcomes when appropriate source records confirm them and disclosure is authorised.
 
-The goal of this work is to explore how AI can support healthcare workflows while keeping human oversight, audit readiness, and compliance expectations in mind.
+### Further corroboration, if available
 
----
+| **Evidence** | **Why it matters** |
+|:--|:--|
+| **Approved before/after architecture** | Makes the adapted design and my contribution visible. |
+| **Decision or release record** | Corroborates when and by whom the approach was adopted and deployed. |
+| **Measured performance or cost comparison** | Supports any quantified business-impact claim. |
 
-## 4. Research Publications in Healthcare AI
+> **Confidentiality:** Do **not** identify the client or product in this public README. The unredacted manager letter and internal architecture should **not remain public without permission**. Submit confidential materials privately to BCS, or substitute authorised redacted versions.
 
-The IEEE Xplore paper and Taylor & Francis chapter support this criterion by showing that my innovation work is not limited to internal project delivery.
-
-These publications show my contribution to healthcare AI, fraud detection, explainability, feature selection, machine learning, and early disease detection.
-
-The IEEE Xplore paper supports my work in AI-powered health insurance fraud detection. The Taylor & Francis chapter supports my work in AI-based early breast cancer detection.
-
-Together, these publications show that my innovation contribution covers both enterprise healthcare workflows and wider healthcare AI research.
-
----
-
-## Innovation Value
-
-The evidence in this folder shows innovation value in the following ways:
-
-* Improved maintainability of enterprise systems.
-* Reduced dependency on legacy workflows.
-* Supported API-first architecture.
-* Improved secure integration between system components.
-* Supported better traceability through logging and telemetry.
-* Improved production support and debugging readiness.
-* Supported healthcare workflow improvement through AI-assisted design.
-* Applied responsible AI, explainability, and auditability concepts.
-* Contributed to healthcare AI research through IEEE Xplore and Taylor & Francis publications.
-* Helped prepare enterprise systems for future technology needs.
-
----
-
-## My Personal Contribution
-
-My contribution includes:
-
-* Understanding existing system behaviour and business workflows.
-* Supporting the design of future-state architecture.
-* Designing and building secure API-based services.
-* Supporting migration from legacy systems to modern platforms.
-* Reviewing technical designs and implementation approaches.
-* Supporting microservices and inter-service communication.
-* Working on AI-assisted workflow design in a healthcare context.
-* Contributing to research work on healthcare AI, fraud detection, explainability, and early disease detection.
-* Helping ensure that solutions are secure, maintainable, traceable, and production-ready.
-
----
-
-## Evidence Statement Linkage
-
-This folder supports the following BCS Fellowship statement:
-
-> My work demonstrates invention and innovation through practical enterprise system modernisation, secure API and microservices architecture, AI-assisted healthcare workflow design, and healthcare AI research publications. These contributions improved maintainability, integration, traceability, production readiness, responsible AI readiness, and future technology readiness in regulated enterprise environments.
-
----
-
-## Suggested BCS Application URL
-
-Use this folder URL as the optional evidence URL for the **Body of Work — Invention and Innovation** section:
-
-https://github.com/indirakumar710/MyProfile/tree/BCS_Fellowship/02_Invention_and_Innovation
-
----
-
-## Redaction and Confidentiality Note
-
-Some evidence in this folder may be redacted or simplified to protect confidential employer, client, and system information.
-
-The following details should not be exposed publicly:
-
-* Client names, unless already public.
-* Internal system names.
-* Production URLs.
-* Database names.
-* IP addresses.
-* User names and email addresses.
-* Internal ticket numbers.
-* Source code.
-* Patient, member, or customer data.
-* Sensitive healthcare or operational details.
-
-Where needed, internal names are replaced with generic terms such as:
-
-* Healthcare Client
-* Legacy System
-* API Layer
-* Microservices Layer
-* AI-Assisted Workflow
-* Compliance Workflow
-* Database Layer
-* Monitoring and Logging Layer
-
----
-
-## Reviewer Guidance
-
-The key files and links to review first are:
-
-1. `Legacy_System_Modernization.pdf`
-2. `Secure_API_MicroServices.pdf`
-3. `AI Assisted Workflow.pdf`
-4. IEEE Xplore paper: https://ieeexplore.ieee.org/document/11265380/
-5. Taylor & Francis chapter: https://www.taylorfrancis.com/chapters/edit/10.1201/9781003666929-70/early-breast-cancer-detection-using-integrated-feature-selection-quad-learner-ensemble-based-hunting%E2%80%93tracking-optimization-indirakumar-rajendiran-dhivyabharathi-ramanathan
-
-These documents and links provide the strongest support for my BCS Invention and Innovation criterion.
+[**← Return to portfolio overview**](../README.md)
